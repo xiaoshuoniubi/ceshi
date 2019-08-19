@@ -1,0 +1,10 @@
+网点查询 无参数
+http://127.0.0.1/dlbank/index.php?s=index/index/netselect
+注册. post方式 参数 username password name
+http://127.0.0.1/dlbank/index.php?s=index/index/register
+登陆  参数 username  password
+http://127.0.0.1/dlbank/index.php?s=index/index/login
+添加意见 idea
+http://127.0.0.1/dlbank/index.php?s=index/index/addidea
+查看意见  无参数
+http://127.0.0.1/dlbank/index.php?s=index/index/seeidea
